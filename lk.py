@@ -2,7 +2,7 @@ import socket, struct, codecs, sys, threading, random, time, os, argparse
 
 
 
-proxys = open('proxies.txt').readlines()
+
 
 bots = len(proxys)
 
